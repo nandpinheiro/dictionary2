@@ -19,6 +19,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 //FUNÇÃO PARA REPRODUÇÃO DOS ÁUDIOS
 var iconAudioMap = {
+    'audio1': 'audio/1.m4a',
     'audio2': 'audio/2.m4a',
     'audio3': 'audio/3.m4a',
     'audio4': 'audio/4.m4a',
